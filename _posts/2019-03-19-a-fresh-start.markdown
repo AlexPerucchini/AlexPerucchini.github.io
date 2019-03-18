@@ -9,7 +9,7 @@ With the demise of G+ I decided to move my previously anemic private blog from B
 
 This is the Mia Culpa moment where I apologize for not having blogged enough in the past year. I did have an excellent online year in gaming, and I did find a new social media home on <a href= "https://mewe.com/myworld" target="_blank">MeWe</a> . I was very happy to see that the Lone Wolf Roleplaying group has also set-up shop there, along with many G+ RPG refugees. See? life is good!
 
-This blog reboot comes the shift in focus from low fantasy to a more heroic, albeit a more futuristic grim-dark world that is Warhammer 40k, which is the dystopian sci-fi version of Warhammer Fantasy; I love the both equally for reasons that I will explain in further future blogs.
+This blog reboot comes the shift in focus from low fantasy to a more heroic, albeit a more futuristic grim-dark world that is Warhammer 40k, which is the dystopian sci-fi version of Warhammer Fantasy; I love them both equally for reasons that I will explain in further future blogs.
 
 So, it's with great pleasure that I have signed up for Solo-A-Module-Month (SAMM). A bit of blurb from the organizers ...
 
