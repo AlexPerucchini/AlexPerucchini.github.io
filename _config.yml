@@ -1,18 +1,15 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno'
-# google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+title: Lost Random
+description: 'Quixotic dabbler of esoteric arcana...'
+url: 'https://alexperucchini.github.io/'
+baseurl: '/lost-random'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Alex Perucchini'
+  #twitter_username: alex.perucchini
+  #facebook_username: alex.perucchini
+  #github_username:  alex.perucchini
+  #linkedin_username:  alex.perucchini
 
 defaults:
   -
