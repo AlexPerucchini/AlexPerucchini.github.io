@@ -17,7 +17,7 @@ The pitch from the publisher…
 * Overviews of several sample faerie kingdoms.
 * New relics such as the Vorpal Sword and a new enchanted object table.
 * New creatures ranging from the fair nymph to the foul jabberwock.
-* A complete adventure for expert characters. 
+* A complete adventure for expert characters."
 
 I have run a SotDL mini story arc for my players in the past, and it is a great system that I really enjoy. So, does Terrible Beauty deliver? The answer is a resounding yes!
 
