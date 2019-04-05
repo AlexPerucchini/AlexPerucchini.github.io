@@ -2,7 +2,7 @@
 title:  "A Fresh Start"
 date:   2019-03-15
 categories: [rpg]
-tags: [rpg]
+tags: [rpg, wh40k]
 ---
 
 With the demise of G+ I decided to move my previously anemic private blog from Blogger to GitHub Pages. I hope you enjoy the fresh look and clean interface.
