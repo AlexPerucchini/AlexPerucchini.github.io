@@ -7,7 +7,7 @@ header_pages:
   - about.md
   - contact.md
 
-footer: 'follow me <a href="hhttps://twitter.com/GrognardCoder">twitter</a>'
+footer: 'follow me <a href="https://twitter.com/GrognardCoder">twitter</a>'
 
 #style: light # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
