@@ -4,6 +4,9 @@ layout: page
 permalink: /contact
 ---
 
-# contact
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# Contact: Alex Perucchini
+&nbsp;
+-  [Twitter](https://twitter.com/GrognardCoder)
+-  [LinkedIn](https://www.linkedin.com/in/alex-perucchini-394b471/)
+-  [GitHub](https://https://github.com/AlexPerucchini)
+&nbsp; &nbsp;
