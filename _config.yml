@@ -2,11 +2,12 @@
 
 #google_analytics: UA-NNNNNNNN-N
 
-#header_pages:
-#  - index.md
-#  - about.md
+header_pages:
+  - index.md
+  - about.md
+  - contact.md
 
-#footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: 'follow me <a href="hhttps://twitter.com/GrognardCoder">twitter</a>'
 
 #style: light # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
