@@ -12,7 +12,7 @@ I am a passionate technologist with over twenty years of experience in the Infor
 - On-premise and Cloud infrastructure security
 - Strong interpersonal communication skills and proven experience managing teams in a geographical disperse and collaborative organization
 - Highly proficient in Scrum, Agile and project management methodologies
-- Strong analytical and problem solving skills, with ability to provide “hands on” technical analysis and problem resolution
+- Strong analytical and problem solving skills, with ability to provide hands-on technical analysis and problem resolution
 - Coder
 - Perpetual learner
 
