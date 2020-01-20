@@ -16,4 +16,4 @@ I am a passionate technologist with over twenty years of experience in the Infor
 - Coder
 - Perpetual learner
 
-> “Stay thirsty my friends.”
+> “... Stay thirsty my friends.”
