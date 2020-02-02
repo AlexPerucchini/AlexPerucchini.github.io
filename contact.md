@@ -4,9 +4,9 @@ layout: page
 permalink: /contact
 ---
 
-# Contact: Alex Perucchini
+# Contact - Alex Perucchini
 &nbsp;
--  [Twitter](https://twitter.com/GrognardCoder)
--  [LinkedIn](https://www.linkedin.com/in/alex-perucchini-394b471/)
--  [GitHub](https://github.com/AlexPerucchini)
+-  [Twitter](https://twitter.com/GrognardCoder){:target="_blank"}
+-  [LinkedIn](https://www.linkedin.com/in/alex-perucchini-394b471/){:target="_blank"}
+-  [GitHub](https://github.com/AlexPerucchini){:target="_blank"}
 &nbsp; &nbsp;
